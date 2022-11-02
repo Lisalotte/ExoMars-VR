@@ -1,6 +1,7 @@
 # ExoMars: A Virtual Journey <img src="Game_Icon.png" height=40>
 
 I created an immersive Virtual Reality environment as a method of science communication for ESA's ExoMars 2022 mission. The design of the application is game-like, but with a focus on scientific accuracy and realism.
+This repository includes C# scripts and shaders for Unity, and some other assets. Everything else was left out due to file size and copyright.
 
 <img src="Title_poster.jpg" width=600>
 
